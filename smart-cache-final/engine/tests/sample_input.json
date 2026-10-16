@@ -1,0 +1,1 @@
+{"objective":"response","durationMs":1000,"trace":[{"type":"R","key":1,"at":0},{"type":"W","key":2,"at":10},{"type":"R","key":1,"at":20}]}
